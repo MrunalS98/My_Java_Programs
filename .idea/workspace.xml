@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="989f7bdb-39e3-4dff-b9c8-a7bae0cb21c4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/My_Java_Programs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic_Java_Prog/hello_world.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic_Java_Prog/println_vs_print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variable_In_Java/V_01_prog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variable_In_Java/V_02_prog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variable_In_Java/constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variable_In_Java/local_variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variable_In_Java/multiple_class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variable_In_Java/multiple_variables.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2sUQu1OkuxRb8ta8an5R4YDpXUY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.V_01_prog.executor": "Run",
+    "Application.V_02_prog.executor": "Run",
+    "Application.hello_world.executor": "Run",
+    "Application.local_variable.executor": "Run",
+    "Application.multiple_variables.executor": "Run",
+    "Application.println_vs_print.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/My_Java_Programs",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.constant">
+    <configuration name="V_01_prog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variable_In_Java.V_01_prog" />
+      <module name="My_Java_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Variable_In_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="V_02_prog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variable_In_Java.V_02_prog" />
+      <module name="My_Java_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Variable_In_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="constant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variable_In_Java.constant" />
+      <module name="My_Java_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Variable_In_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="local_variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variable_In_Java.local_variable" />
+      <module name="My_Java_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Variable_In_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="multiple_variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variable_In_Java.multiple_variables" />
+      <module name="My_Java_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Variable_In_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.constant" />
+        <item itemvalue="Application.local_variable" />
+        <item itemvalue="Application.multiple_variables" />
+        <item itemvalue="Application.V_02_prog" />
+        <item itemvalue="Application.V_01_prog" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="989f7bdb-39e3-4dff-b9c8-a7bae0cb21c4" name="Changes" comment="" />
+      <created>1738507896988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738507896988</updated>
+    </task>
+    <servers />
+  </component>
+</project>
