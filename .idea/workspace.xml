@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="989f7bdb-39e3-4dff-b9c8-a7bae0cb21c4" name="Changes" comment="operators in java">
+    <list default="true" id="989f7bdb-39e3-4dff-b9c8-a7bae0cb21c4" name="Changes" comment="ternary operators in java">
       <change afterPath="$PROJECT_DIR$/src/Array_In_Java/TwoD_Array_Prog1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ternary_Operator_In_Java/even_odd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ternary_Operator_In_Java/max_between_two_numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ternary_Operator_In_Java/ternary_operator_Prog1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ternary_Operator_In_Java/ternary_operator_Prog2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nested_Ternary_In_Java/age_classification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nested_Ternary_In_Java/max_of_three_numbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +53,7 @@
     "Application.TwoD_Array_Prog1.executor": "Run",
     "Application.V_01_prog.executor": "Run",
     "Application.V_02_prog.executor": "Run",
+    "Application.age_classification.executor": "Run",
     "Application.arithmetic_operators.executor": "Run",
     "Application.assignment_operator.executor": "Run",
     "Application.boolean_literals.executor": "Run",
@@ -64,6 +63,7 @@
     "Application.hello_world.executor": "Run",
     "Application.local_variable.executor": "Run",
     "Application.max_between_two_numbers.executor": "Run",
+    "Application.max_of_three_numbers.executor": "Run",
     "Application.multiple_variables.executor": "Run",
     "Application.println_vs_print.executor": "Run",
     "Application.relational_operators.executor": "Run",
@@ -78,7 +78,20 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.even_odd">
+  <component name="RunManager" selected="Application.max_of_three_numbers">
+    <configuration name="age_classification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nested_Ternary_In_Java.age_classification" />
+      <module name="My_Java_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Nested_Ternary_In_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="even_odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ternary_Operator_In_Java.even_odd" />
       <module name="My_Java_Programs" />
@@ -105,25 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="relational_operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operators_In_Java.relational_operators" />
+    <configuration name="max_of_three_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nested_Ternary_In_Java.max_of_three_numbers" />
       <module name="My_Java_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Operators_In_Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ternary_operator_Prog1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ternary_Operator_In_Java.ternary_operator_Prog1" />
-      <module name="My_Java_Programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ternary_Operator_In_Java.*" />
+          <option name="PATTERN" value="Nested_Ternary_In_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.max_of_three_numbers" />
+        <item itemvalue="Application.age_classification" />
         <item itemvalue="Application.even_odd" />
         <item itemvalue="Application.max_between_two_numbers" />
         <item itemvalue="Application.ternary_operator_Prog2" />
-        <item itemvalue="Application.ternary_operator_Prog1" />
-        <item itemvalue="Application.relational_operators" />
       </list>
     </recent_temporary>
   </component>
@@ -195,13 +195,22 @@
       <option name="project" value="LOCAL" />
       <updated>1739792802671</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ternary operators in java">
+      <option name="closed" value="true" />
+      <created>1739798873693</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739798873693</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="variables" />
     <MESSAGE value="literals" />
     <MESSAGE value="operators in java" />
-    <option name="LAST_COMMIT_MESSAGE" value="operators in java" />
+    <MESSAGE value="ternary operators in java" />
+    <option name="LAST_COMMIT_MESSAGE" value="ternary operators in java" />
   </component>
 </project>
