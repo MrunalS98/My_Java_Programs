@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="989f7bdb-39e3-4dff-b9c8-a7bae0cb21c4" name="Changes" comment="variables" />
+    <list default="true" id="989f7bdb-39e3-4dff-b9c8-a7bae0cb21c4" name="Changes" comment="literals">
+      <change afterPath="$PROJECT_DIR$/src/Array_In_Java/TwoD_Array_Prog1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operators_In_Java/arithmetic_operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operators_In_Java/assignment_operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operators_In_Java/logical_operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operators_In_Java/relational_operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MrunalS98"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MrunalS98/My_Java_Programs.git",
+    "accountId": "7994ef16-ca2a-4305-b8e5-8dd73839578f"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -33,13 +52,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.TwoD_Array_Prog1.executor": "Run",
     "Application.V_01_prog.executor": "Run",
     "Application.V_02_prog.executor": "Run",
+    "Application.arithmetic_operators.executor": "Run",
+    "Application.assignment_operator.executor": "Run",
+    "Application.boolean_literals.executor": "Run",
     "Application.constant.executor": "Run",
+    "Application.constant_And_literals.executor": "Run",
     "Application.hello_world.executor": "Run",
     "Application.local_variable.executor": "Run",
     "Application.multiple_variables.executor": "Run",
     "Application.println_vs_print.executor": "Run",
+    "Application.relational_operators.executor": "Run",
+    "Application.string_literals.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -48,13 +74,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.constant">
-    <configuration name="V_01_prog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variable_In_Java.V_01_prog" />
+  <component name="RunManager" selected="Application.relational_operators">
+    <configuration name="arithmetic_operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operators_In_Java.arithmetic_operators" />
       <module name="My_Java_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Variable_In_Java.*" />
+          <option name="PATTERN" value="Operators_In_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="V_02_prog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variable_In_Java.V_02_prog" />
+    <configuration name="assignment_operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operators_In_Java.assignment_operator" />
       <module name="My_Java_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Variable_In_Java.*" />
+          <option name="PATTERN" value="Operators_In_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="constant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variable_In_Java.constant" />
+    <configuration name="boolean_literals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Literals_In_Java.boolean_literals" />
       <module name="My_Java_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Variable_In_Java.*" />
+          <option name="PATTERN" value="Literals_In_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="local_variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variable_In_Java.local_variable" />
+    <configuration name="relational_operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operators_In_Java.relational_operators" />
       <module name="My_Java_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Variable_In_Java.*" />
+          <option name="PATTERN" value="Operators_In_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="multiple_variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variable_In_Java.multiple_variables" />
+    <configuration name="string_literals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Literals_In_Java.string_literals" />
       <module name="My_Java_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Variable_In_Java.*" />
+          <option name="PATTERN" value="Literals_In_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.constant" />
-        <item itemvalue="Application.local_variable" />
-        <item itemvalue="Application.multiple_variables" />
-        <item itemvalue="Application.V_02_prog" />
-        <item itemvalue="Application.V_01_prog" />
+        <item itemvalue="Application.relational_operators" />
+        <item itemvalue="Application.arithmetic_operators" />
+        <item itemvalue="Application.assignment_operator" />
+        <item itemvalue="Application.string_literals" />
+        <item itemvalue="Application.boolean_literals" />
       </list>
     </recent_temporary>
   </component>
@@ -141,11 +167,28 @@
       <option name="project" value="LOCAL" />
       <updated>1739296065069</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="variables">
+      <option name="closed" value="true" />
+      <created>1739296124560</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739296124560</updated>
+    </task>
+    <task id="LOCAL-00003" summary="literals">
+      <option name="closed" value="true" />
+      <created>1739686785089</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739686785089</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="variables" />
-    <option name="LAST_COMMIT_MESSAGE" value="variables" />
+    <MESSAGE value="literals" />
+    <option name="LAST_COMMIT_MESSAGE" value="literals" />
   </component>
 </project>
