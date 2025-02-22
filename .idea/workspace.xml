@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="989f7bdb-39e3-4dff-b9c8-a7bae0cb21c4" name="Changes" comment="ternary operators in java">
+    <list default="true" id="989f7bdb-39e3-4dff-b9c8-a7bae0cb21c4" name="Changes" comment="nested one ternary operators in java">
       <change afterPath="$PROJECT_DIR$/src/Array_In_Java/TwoD_Array_Prog1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nested_Ternary_In_Java/age_classification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nested_Ternary_In_Java/max_of_three_numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Increment_Decrement_Operators_In_Java/post_ID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Increment_Decrement_Operators_In_Java/prog_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Increment_Decrement_Operators_In_Java/prog_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Increment_Decrement_Operators_In_Java/prog_03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,18 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "MrunalS98"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MrunalS98&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/MrunalS98/My_Java_Programs.git",
-    "accountId": "7994ef16-ca2a-4305-b8e5-8dd73839578f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MrunalS98/My_Java_Programs.git&quot;,
+    &quot;accountId&quot;: &quot;7994ef16-ca2a-4305-b8e5-8dd73839578f&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -65,7 +67,10 @@
     "Application.max_between_two_numbers.executor": "Run",
     "Application.max_of_three_numbers.executor": "Run",
     "Application.multiple_variables.executor": "Run",
+    "Application.post_ID.executor": "Run",
     "Application.println_vs_print.executor": "Run",
+    "Application.prog_01.executor": "Run",
+    "Application.prog_02.executor": "Run",
     "Application.relational_operators.executor": "Run",
     "Application.string_literals.executor": "Run",
     "Application.ternary_operator_Prog1.executor": "Run",
@@ -78,46 +83,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.max_of_three_numbers">
-    <configuration name="age_classification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nested_Ternary_In_Java.age_classification" />
-      <module name="My_Java_Programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Nested_Ternary_In_Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="even_odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ternary_Operator_In_Java.even_odd" />
-      <module name="My_Java_Programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ternary_Operator_In_Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="max_between_two_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ternary_Operator_In_Java.max_between_two_numbers" />
-      <module name="My_Java_Programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ternary_Operator_In_Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.prog_03">
     <configuration name="max_of_three_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Nested_Ternary_In_Java.max_of_three_numbers" />
       <module name="My_Java_Programs" />
@@ -131,12 +97,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ternary_operator_Prog2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ternary_Operator_In_Java.ternary_operator_Prog2" />
+    <configuration name="post_ID" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Increment_Decrement_Operators_In_Java.post_ID" />
       <module name="My_Java_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ternary_Operator_In_Java.*" />
+          <option name="PATTERN" value="Increment_Decrement_Operators_In_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prog_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Increment_Decrement_Operators_In_Java.prog_01" />
+      <module name="My_Java_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Increment_Decrement_Operators_In_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prog_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Increment_Decrement_Operators_In_Java.prog_02" />
+      <module name="My_Java_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Increment_Decrement_Operators_In_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prog_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Increment_Decrement_Operators_In_Java.prog_03" />
+      <module name="My_Java_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Increment_Decrement_Operators_In_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.prog_03" />
+        <item itemvalue="Application.prog_02" />
+        <item itemvalue="Application.post_ID" />
+        <item itemvalue="Application.prog_01" />
         <item itemvalue="Application.max_of_three_numbers" />
-        <item itemvalue="Application.age_classification" />
-        <item itemvalue="Application.even_odd" />
-        <item itemvalue="Application.max_between_two_numbers" />
-        <item itemvalue="Application.ternary_operator_Prog2" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739798873693</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="nested one ternary operators in java">
+      <option name="closed" value="true" />
+      <created>1739800841388</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739800841388</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -211,6 +224,7 @@
     <MESSAGE value="literals" />
     <MESSAGE value="operators in java" />
     <MESSAGE value="ternary operators in java" />
-    <option name="LAST_COMMIT_MESSAGE" value="ternary operators in java" />
+    <MESSAGE value="nested one ternary operators in java" />
+    <option name="LAST_COMMIT_MESSAGE" value="nested one ternary operators in java" />
   </component>
 </project>
