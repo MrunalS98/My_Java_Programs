@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="989f7bdb-39e3-4dff-b9c8-a7bae0cb21c4" name="Changes" comment="Increment and decrement operators in java">
-      <change afterPath="$PROJECT_DIR$/src/Array_In_Java/TwoD_Array_Prog1.java" afterDir="false" />
+    <list default="true" id="989f7bdb-39e3-4dff-b9c8-a7bae0cb21c4" name="Changes" comment="array test operators in java">
+      <change afterPath="$PROJECT_DIR$/src/If_Conditions_In_Java/if_else_if_prog_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/If_Conditions_In_Java/if_else_prog_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/If_Conditions_In_Java/only_if.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,10 +61,12 @@
     "Application.constant_And_literals.executor": "Run",
     "Application.even_odd.executor": "Run",
     "Application.hello_world.executor": "Run",
+    "Application.if_else_prog_01.executor": "Run",
     "Application.local_variable.executor": "Run",
     "Application.max_between_two_numbers.executor": "Run",
     "Application.max_of_three_numbers.executor": "Run",
     "Application.multiple_variables.executor": "Run",
+    "Application.only_if.executor": "Run",
     "Application.post_ID.executor": "Run",
     "Application.println_vs_print.executor": "Run",
     "Application.prog_01.executor": "Run",
@@ -79,13 +84,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.prog_03">
-    <configuration name="max_of_three_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nested_Ternary_In_Java.max_of_three_numbers" />
+  <component name="RunManager" selected="Application.if_else_if_prog_01">
+    <configuration name="if_else_if_prog_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="If_Conditions_In_Java.if_else_if_prog_01" />
       <module name="My_Java_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Nested_Ternary_In_Java.*" />
+          <option name="PATTERN" value="If_Conditions_In_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="post_ID" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Increment_Decrement_Operators_In_Java.post_ID" />
+    <configuration name="if_else_prog_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="If_Conditions_In_Java.if_else_prog_01" />
       <module name="My_Java_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Increment_Decrement_Operators_In_Java.*" />
+          <option name="PATTERN" value="If_Conditions_In_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prog_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Increment_Decrement_Operators_In_Java.prog_01" />
+    <configuration name="only_if" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="If_Conditions_In_Java.only_if" />
       <module name="My_Java_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Increment_Decrement_Operators_In_Java.*" />
+          <option name="PATTERN" value="If_Conditions_In_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.if_else_if_prog_01" />
+        <item itemvalue="Application.if_else_prog_01" />
+        <item itemvalue="Application.only_if" />
         <item itemvalue="Application.prog_03" />
         <item itemvalue="Application.prog_02" />
-        <item itemvalue="Application.post_ID" />
-        <item itemvalue="Application.prog_01" />
-        <item itemvalue="Application.max_of_three_numbers" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740237069257</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="array test operators in java">
+      <option name="closed" value="true" />
+      <created>1740237981403</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1740237981403</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -230,6 +243,7 @@
     <MESSAGE value="ternary operators in java" />
     <MESSAGE value="nested one ternary operators in java" />
     <MESSAGE value="Increment and decrement operators in java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Increment and decrement operators in java" />
+    <MESSAGE value="array test operators in java" />
+    <option name="LAST_COMMIT_MESSAGE" value="array test operators in java" />
   </component>
 </project>
