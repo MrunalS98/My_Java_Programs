@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="989f7bdb-39e3-4dff-b9c8-a7bae0cb21c4" name="Changes" comment="array test operators in java">
-      <change afterPath="$PROJECT_DIR$/src/If_Conditions_In_Java/if_else_if_prog_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/If_Conditions_In_Java/if_else_prog_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/If_Conditions_In_Java/only_if.java" afterDir="false" />
+    <list default="true" id="989f7bdb-39e3-4dff-b9c8-a7bae0cb21c4" name="Changes" comment="If_condition_day_one">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/If_Conditions_In_Java/if_else_if_prog_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/If_Conditions_In_Java/if_else_if_prog_01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +59,7 @@
     "Application.constant_And_literals.executor": "Run",
     "Application.even_odd.executor": "Run",
     "Application.hello_world.executor": "Run",
+    "Application.if_else_if_prog_01.executor": "Run",
     "Application.if_else_prog_01.executor": "Run",
     "Application.local_variable.executor": "Run",
     "Application.max_between_two_numbers.executor": "Run",
@@ -233,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740237981403</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="If_condition_day_one">
+      <option name="closed" value="true" />
+      <created>1741283520644</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741283520644</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -244,6 +251,7 @@
     <MESSAGE value="nested one ternary operators in java" />
     <MESSAGE value="Increment and decrement operators in java" />
     <MESSAGE value="array test operators in java" />
-    <option name="LAST_COMMIT_MESSAGE" value="array test operators in java" />
+    <MESSAGE value="If_condition_day_one" />
+    <option name="LAST_COMMIT_MESSAGE" value="If_condition_day_one" />
   </component>
 </project>
